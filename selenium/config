@@ -1,0 +1,29 @@
+# каждое значения - на новой строке, в конце такой строки - запятая
+
+# тестирование без открытия браузера - 0, с открытым браузером - 1
+GUI = 1
+
+# выбор браузера: chrome, firefox
+BROWSER = firefox
+
+# путь к драйверу хрома
+CHROMEDRIVER_PATH =
+
+# url тестируемой почты
+MAIL_URL =
+
+LOGIN =
+PASSWORD =
+
+# адресат
+DESTINATION =
+
+# пути к аттачам
+ATTACHMENTS =
+
+# пути к инлайнам
+INLINES =
+
+CC =
+BCC =
+REPLY_TO =
